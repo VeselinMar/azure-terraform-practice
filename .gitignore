@@ -1,0 +1,80 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Build logs
+*.log
+*.tlog/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+
+# Azure Web App publish settings
+*.Publish.xml
+
+# Resharper files
+_ReSharper*/
+
+# JetBrains Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# Rider debugger
+.idea/
+
+# Rider local history
+.idea/local-history/
+
+# Windows image file caches
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.user
+*.userprefs
+
+# Test results
+TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+
+# SQLite databases
+*.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.cache
+*.sln.cache
